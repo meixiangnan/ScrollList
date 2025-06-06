@@ -4,7 +4,10 @@ using UnityEngine;
 
 public class InfiniteListDemo : MonoBehaviour
 {
+    //test git ..
     public InfiniteListScrollRect InfiniteList;
+
+    private int testgit;
 
     private string[] _surnames = new string[] { "张", "李", "王", "赵", "刘", "胡", "霍", "江", "唐", "欧阳", "司徒", "慕容", "轩辕", "皇甫", "西门" };
     private string[] _names = new string[] { "三", "四", "五", "明", "强", "磊", "龙", "虎", "玉清", "博", "成", "航", "逸", "建国", "建军", "建党" };
