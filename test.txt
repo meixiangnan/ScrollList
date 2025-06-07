@@ -1,3 +1,4 @@
 start newbranch bugfix2 new star
 new bugfix
 new side
+add main rebase
