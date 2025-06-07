@@ -1,3 +1,1 @@
-测试diff
-测试最近一次的合并
-追加到最近一次的提交
+bugfix2 new star
