@@ -1,9 +1,1 @@
-start newbranch bugfix2 new star
-new bugfix
-new side
-add main rebase
-side rebase
-test bugfix
-cherrypick
-add main new
-add main two
+reset handle main branch
