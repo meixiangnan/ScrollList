@@ -1,2 +1,3 @@
 start newbranch bugfix2 new star
 new bugfix
+test bugfix
