@@ -1,3 +1,7 @@
 Library/
 Logs/
 Assembly-CSharp-Editor.csproj
+Assembly-CSharp.csproj
+UserSettings/Layouts/default-2022.dwlt
+obj/Debug/Assembly-CSharp-Editor.csproj.AssemblyReference.cache
+obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache
